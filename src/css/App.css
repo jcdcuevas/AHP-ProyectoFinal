@@ -1,0 +1,27 @@
+.home {
+  text-align: center;
+  margin: 100px;
+}
+
+table.listing, th, td {
+  border: 1px grey solid;
+}
+
+table.listing th, td {
+  padding: 10px 20px;
+}
+
+table.listing {
+  border-spacing: 0;
+  display: inline-table;
+}
+
+.searchBox {
+  padding: 20px 20px;
+}
+
+.searchBox input {
+  padding: 5px 10px;
+  width: 350px;
+}
+

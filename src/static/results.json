@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "matricula": "19SA037097",
+      "firstName": "JUAN CARLOS",
+      "lastName": "DOMINGUEZ CUEVAS",
+      "marks": {
+        "english": 70,
+        "hindi": 80,
+        "mathematics": 90
+      }
+    },
+    {
+      "matricula": "19SA037108",
+      "firstName": "PEDRO JUAN",
+      "lastName": "PEREZ MENDEZ",
+      "marks": {
+        "english": 40,
+        "hindi": 50,
+        "mathematics": 60
+      }
+    },
+    {
+      "matricula": "18SA037049",
+      "firstName": "JUAN ALBERTO",
+      "lastName": "MARTINEZ RAMOS",
+      "marks": {
+        "english": 50,
+        "hindi": 60,
+        "mathematics": 70
+      }
+    },
+    {
+      "matricula": "19SA037114",
+      "firstName": "EDUARDO",
+      "lastName": "MARTINEZ ORDOÑEZ",
+      "marks": {
+        "english": 40,
+        "hindi": 40,
+        "mathematics": 10
+      }
+    },
+    {
+      "matricula": "18SA037034",
+      "firstName": "PEDRO CARLOS",
+      "lastName": "SANTIAGO OLIVERA",
+      "marks": {
+        "english": 50,
+        "hindi": 60,
+        "mathematics": 70
+      }
+    },
+    {
+      "matricula": "18SA037027",
+      "firstName": "JULIAN",
+      "lastName": "GARCIA FUENTES",
+      "marks": {
+        "english": 40,
+        "hindi": 50,
+        "mathematics": 30
+      }
+    },
+    {
+      "matricula": "19SA037100",
+      "firstName": "JUAN JOSE",
+      "lastName": "CASTELLANOS RAMOS",
+      "marks": {
+        "english": 90,
+        "hindi": 90,
+        "mathematics": 90
+      }
+    }
+  ]
+}
